@@ -1,10 +1,7 @@
+###  https://sergio1811x.github.io/react-pizza/
 
-## Available Scripts
+npm install - установка зависимостей
 
-In the project directory, you can run:
+npm start - запуск
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
+проект React Pizza по ютубу, лишний раз попрактиковаться и возможно узнать что-то новое.
